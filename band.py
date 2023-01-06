@@ -1,0 +1,5 @@
+print("Welcome to Band Name Generator!!")
+userInput = input("What's your favorite color? ")
+userInput2 = input("What city did you grow up in? ")
+print("Your band name is...")
+print(userInput + " " + userInput2)
